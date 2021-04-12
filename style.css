@@ -15,7 +15,8 @@ Author URI: https://mdbootstrap.com
   background: linear-gradient(40deg, #45cafc, #303f9f) !important; }
 
 .card-comments img {
-  width: 4rem; }
+  width: 4rem; 
+  height: 4rem;}
 
 .card-intro {
   margin-top: 67px; }

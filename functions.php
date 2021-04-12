@@ -4,6 +4,7 @@
  * Include external files
  */
 require_once('inc/pagination.inc.php');
+require_once('inc/template-tags.inc.php');
 
 
 
